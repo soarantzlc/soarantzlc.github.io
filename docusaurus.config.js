@@ -10,7 +10,7 @@ const config = {
   tagline: '流水不争先，争的是滔滔不绝',
 
   url: 'https://messiahhh.github.io/',
-  baseUrl: '/blog/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
