@@ -1,5 +1,4 @@
-name: NodeJS with Webpack
-
+name: github-pages
 on:
   push:
     branches: [ "main" ]
