@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkakara=self.webpackChunkakara||[]).push([[95],{2099:a=>{a.exports=JSON.parse('{"permalink":"/blog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

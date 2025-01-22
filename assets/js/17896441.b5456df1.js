@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkakara=self.webpackChunkakara||[]).push([[918],{6922:(a,e,k)=>{k.d(e,{Z:()=>c});var s=k(7294);const c={React:s,...s}}}]);
