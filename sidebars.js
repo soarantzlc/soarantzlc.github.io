@@ -16,7 +16,11 @@ const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   tutorialSidebar: [
     // "browser",
-    "introduce",
+    {
+      type: 'category',
+      label: '前端工程化',
+      items: ['project/overview','project/tool'],
+    },
    /* {
       type: 'category',
       label: '经验分享',
