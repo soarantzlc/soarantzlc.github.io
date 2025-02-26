@@ -19,12 +19,17 @@ const sidebars = {
     {
       type: 'category',
       label: '前端工程化',
-      items: ['project/overview','project/tool'],
+
+      items: ['project/overview',{
+        type: 'category',
+        label: '性能优化',
+        collapsed: false,
+        items:['project/performance-optimization/debounce','project/performance-optimization/throttle']
+      }],
     },
    /* {
       type: 'category',
       label: '经验分享',
-
       items: ['exp/i18n','exp/component'],
     },
     {
